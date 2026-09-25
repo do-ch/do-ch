@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I’m Doreen 👋
 
-<!--
-**do-ch/do-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Political Science PhD researcher building expertise in cybersecurity, with interests in political violence, natural disasters, cybersecurity, cyber risk, security governance and threat intelligence.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Political violence
+- Natural disasters
+- Spatial and data analysis
+- Cybersecurity
+- Cyber risk
+- Security governance
+- Threat intelligence
+
+## Currently Learning
+
+- Networking
+- Linux
+- Cybersecurity fundamentals
+- Security operations
+- Incident response
+
+
+## Background
+
+- PhD in Political Science: In Progress
+- Political violence and natural disaster research
+- Quantitative research and data analysis
+- R and spatial analysis
+
+## Projects
+
+Cybersecurity and research projects will be added as they are completed.
+
+
